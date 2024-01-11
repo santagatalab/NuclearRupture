@@ -6,7 +6,7 @@ Sandro Santagata, ssantagata@bwh.harvard.edu
 
 Brian Cheng, bqcheng@bwh.harvard.edu
 
-# Data Directory
+# Dataset Structure Directory
 Dateset Number, Date and Tissue Type, Summary
 
 Dataset_1,	              2018/10	GBM TMA, 	                    BAF Panel with 7 cycles
@@ -37,7 +37,7 @@ Dataset_13,	              2018/10	GBM,	                    Expansion microscopy
 
 Dataset_14,	              2023/2	GBM BT Lines,	        Live-cell imaging with tracking rupture over time
 
-# Dataset Specific Code Directory
+# Dataset Associated Code Directory
 
 Folder Dir, Summary
 
