@@ -1,4 +1,4 @@
-# MATLAB and R codebase
+# MATLAB and R Codebase
 
 2D and 3D multiplexed subcellular profiling of nuclear instability in human cancer, Santagata Lab.
 
