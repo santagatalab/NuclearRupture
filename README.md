@@ -1,6 +1,9 @@
 # MATLAB and R codebase
-2D and 3D multiplexed subcellular profiling of nuclear instability in human cancer, Santagata Lab enter to next line  
+
+2D and 3D multiplexed subcellular profiling of nuclear instability in human cancer, Santagata Lab.
+
 Sandro Santagata, ssantagata@bwh.harvard.edu
+
 Brian Cheng, bqcheng@bwh.harvard.edu
 
 # Data Directory
