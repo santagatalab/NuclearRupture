@@ -1,0 +1,8 @@
+
+Intensity Median Ch=40 Img=1
+ ==================== 
+Intensity Median,Unit,Category,Channel,Image,Time,Set 1,ID,
+1,,Surface,40,Image 1,1,Class B,0,
+0.5,,Surface,40,Image 1,1,Class B,1,
+0.5,,Surface,40,Image 1,1,Class B,2,
+0.5,,Surface,40,Image 1,1,Class A,3,

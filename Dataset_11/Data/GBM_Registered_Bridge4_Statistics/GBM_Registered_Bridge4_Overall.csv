@@ -1,0 +1,13 @@
+
+Overall
+ ==================== 
+Variable,Value,Unit,Class,Time,ID,
+Number of Disconnected Components per Time Point,4,,,1,,
+Number of Surfaces per Time Point,4,,,1,,
+Number of Tracks,0,,,,,
+Number of labelled Surfaces per Class,1,,Set 1::Class A,,,
+Number of labelled Surfaces per Class,3,,Set 1::Class B,,,
+Number of labelled Surfaces per Class per Time Point,1,,Set 1::Class A,1,,
+Number of labelled Surfaces per Class per Time Point,3,,Set 1::Class B,1,,
+Total Number of Disconnected Components,4,,,,,
+Total Number of Surfaces,4,,,,,
